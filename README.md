@@ -1,5 +1,5 @@
 # Stego-tree
-Heres how you can decode that silly tree in Wikipedias Steganography section as depicted below: <br>
+Heres a little backstory, even if you don't care. I was doing some Steganography research and came upon this wiki article that said this image of a tree has a cat inside it! WHAT? Ofcourse I was curious and wanted to try to see if I could do it. Looked online and couldn't find zip, I did find a SO forum, but it was useless lol. So it became my mission to figure out how to extract the cat. The description made it sound really simple, and hey it actually was! <br>
 <br>
 *"Image of a tree with a steganographically hidden image. The hidden image is revealed by removing all but the two least significant bits of each color component and a subsequent normalization. The hidden image is shown below."*
 
