@@ -18,5 +18,9 @@ As the image above, if we changed the last big of 10110001 -> 10110000, it would
 We are going to take advantage of that and manipulate the least significant bit in the pixel map to insert our image there. <br>
 
 <img width="697" alt="Screenshot 2023-10-18 at 11 11 35 AM" src="https://github.com/katstews/Stego-tree/assets/112781868/a968e475-06bc-468f-8e44-109ce04f55e9"> <br> 
-The code in the repo follow the image right above. Knowing that we keep the last two least signifcant bits in the tree png, we are going to take those values and tack on 6 0's, to create a new byte. And at the end we are going to create a whole new image, and it should be the cat! 
+The code in the repo follow the image right above. Knowing that we keep the last two least signifcant bits in the tree png, we are going to take those values and tack on 6 0's, to create a new byte. And at the end we are going to create a whole new image, and it should be the cat! <br>
+
+Hola Cato! <br>
+![cato](https://github.com/katstews/Stego-tree/assets/112781868/3e28c14e-1159-44bc-8781-6fee1faecc25)
+
 
